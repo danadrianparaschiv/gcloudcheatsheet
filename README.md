@@ -9,10 +9,10 @@ certification exam guide https://cloud.google.com/certification/guides/cloud-eng
 
 How to use it?
 
-In case you are not familiar with a particular topic you can start with links listed on the far right column (Reference).
-After that you could start a cloud shell from Google cloud console, by clicking the Activate Cloud Shell button and run the gcloud commands from the third columns.
+In case you are not familiar with a particular topic you can start with links listed under Reference.
+After that you could start a cloud shell from Google cloud console, by clicking the Activate Cloud Shell button and run the gcloud commands under each topic.
 
-For some for the commands you should mind the comments in the next column to the right (eg. project_id parameter has to be unique).
+For some for the commands you should mind the notes below (eg. "project_id parameter has to be unique").
 
 
 What's next?
